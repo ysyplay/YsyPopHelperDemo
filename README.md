@@ -5,7 +5,7 @@
 
 
 效果演示
-![2020-11-09 17.30.50.gif](https://upload-images.jianshu.io/upload_images/13492225-2f694415f3ad95c4.gif?imageMogr2/auto-orient/strip)
+![2020-11-09 17.30.50.gif](https://www.jianshu.com/p/81bf477f9a65)
 
 ##功能和用途
 1.可自定义弹窗弹出，消失的动画和方向。
