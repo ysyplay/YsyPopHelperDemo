@@ -5,7 +5,7 @@
 
 
 效果演示
-![2020-11-09 17.30.50.gif](https://www.jianshu.com/p/81bf477f9a65)
+https://www.jianshu.com/p/81bf477f9a65
 
 ##功能和用途
 1.可自定义弹窗弹出，消失的动画和方向。
